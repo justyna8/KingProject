@@ -1,7 +1,7 @@
-### Justyna Modzelewska 
-### King’s Super Math Saga experiment
 
-Assumptions: The test is clean. Since the version A is stend standard, somebody might had been exposed to it before being assigned to test group B which would lead to cross contamination of the test groups. I do have an installation date however I do not have "first usage" date which means I cannot take this into account. I will therefore assume that (1) only using data after the test (2) the new experience is unparalleled and unique enough that being exposed to the original BAU contaminates the experience in group B. 
+### King’s Super Math Saga experiment
+#### Justyna Modzelewska 
+
 
 The question: how would we determine which of the experiences make Super Math Saga a better game?
 
@@ -96,6 +96,8 @@ sample estimates:
 mean of x mean of y 
  98049.16 543703.95 
 ```
+
+Given the unique assignment to the test of users who have already installed the app, this leads me to conclude that there is a need for such assumption: The test is clean. Since the version A is a standing standard, somebody might had been exposed to it before being assigned to test group B which would lead to cross contamination of the test groups. I do have an installation date however I do not have "first usage" date which means I cannot take this into account. I have to work, therefore, (1) with only using data after strict test start (2) with certain belief that the new experience is unparalleled and unique enough that being exposed to the original BAU doe not contaminate the experience in group B. 
 
 Another aspects which would be interesting to test, especially with more future data, is stickininess of group B. This would include tracking the user through its lifetime. Do players who were exposed to group open the game as often post the experience? Do the end up removing the app? Do they not share their results as often? Given that we have data on behaviour before the test, we can see if the individuals who were active during, and thus affected by the test, would turn into different users of the app. 
 
